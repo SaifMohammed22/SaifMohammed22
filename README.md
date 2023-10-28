@@ -18,10 +18,10 @@
 
 
 ## Connect with Me :
-  <a href="linkedin.com/in/saif-mohammed-8a9a43214">
+  <a href="www.linkedin.com/in/saif-mohammed-8a9a43214">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
- <a href="mailto:saifmohamed2004@gmail.com">
+ <a href="mailto:saif.mahmoud04@eng-st.cu.edu.eg.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
