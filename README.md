@@ -18,7 +18,7 @@
 
 
 ## Connect with Me :
-  <a href="www.linkedin.com/in/saif-mohammed-8a9a43214">
+  <a href="linkedin.com/in/saif-mohammed-8a9a43214">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
  <a href="mailto:saif.mahmoud04@eng-st.cu.edu.eg.com">
