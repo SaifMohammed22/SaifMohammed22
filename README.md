@@ -18,7 +18,7 @@
 
 
 ## Connect with Me :
-  <a href="linkedin.com/in/saif-mohammed-ali">
+  <a href="www.linkedin.com/in/saif-mohammed-ali">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
  <a href="mailto:saif.mahmoud04@eng-st.cu.edu.eg.com">
@@ -32,6 +32,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=java)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cpp)&nbsp;
  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
