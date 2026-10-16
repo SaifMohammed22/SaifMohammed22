@@ -4,10 +4,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Studying **Systems and Biomedical Engineering** at Cairo University
-- 🤖 Passionate about **Machine Learning, Deep Learning, and Software Development**
-- 🌱 Always learning and exploring new technologies
-
+- Studying **Systems and Biomedical Engineering** at Cairo University
+- Passionate about **Deep Learning, Vision, World Models, Robust AI, and recently Robotics**
 ---
 
 ### 🛠️ Languages and Tools
